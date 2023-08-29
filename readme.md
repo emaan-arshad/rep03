@@ -24,11 +24,17 @@ Q4
 
 Q5
 
+<img width="960" alt="Q5 LAB 2" src="https://github.com/emaan-arshad/rep03/assets/142867477/b2d366fa-cd2a-42d9-aa0a-938cbe9d392c">
+
+
 
 Q6
 
+<img width="957" alt="q6 lab 2" src="https://github.com/emaan-arshad/rep03/assets/142867477/12001dae-1407-4de7-823e-8d14a1b86554">
+
 
 Q7
+<img width="960" alt="q7 lqb 2 b" src="https://github.com/emaan-arshad/rep03/assets/142867477/c6b5ce13-45e7-40ba-a9fd-62f1c6f1a16c">
 
 
 
