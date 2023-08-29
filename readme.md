@@ -10,11 +10,14 @@ Q2
 
 
 Q3
-![q3](https://github.com/emaan-arshad/rep03/assets/142867477/66e1577d-ab18-44a4-b110-bd8e1003a869)
+![Q3 B](https://github.com/emaan-arshad/rep03/assets/142867477/2ea95cf4-a3b2-4467-af09-200274e9b776)
+
 
 Q4
-![q4](https://github.com/emaan-arshad/rep03/assets/142867477/97591f20-233a-4136-9ede-97ce65727eac)
+![q4](https://github.com/emaan-arshad/rep03/assets/142867477/b820f08f-d77a-4ac3-b041-bff7efa5c614)
+
 
 Q5
-![Q5B](https://github.com/emaan-arshad/rep03/assets/142867477/a63e33e3-b333-4038-8440-fd0f340f378b)
+![Q5 C](https://github.com/emaan-arshad/rep03/assets/142867477/33f6cb25-87a2-4b41-adc9-a70fc382794a)
+
 
