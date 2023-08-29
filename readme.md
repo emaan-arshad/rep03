@@ -18,7 +18,14 @@ Q4
 
 
 Q5
-![Q5 C](https://github.com/emaan-arshad/rep03/assets/142867477/f9eef89d-ad01-42a9-b3bf-7162cb0effe7)
+<img width="960" alt="Q5 LAB 2" src="https://github.com/emaan-arshad/rep03/assets/142867477/e59fc0fa-ab05-4238-bf35-7d7dfd7d4340">
+
+Q6
+<img width="957" alt="q6 lab 2" src="https://github.com/emaan-arshad/rep03/assets/142867477/1b6abdbf-07e6-49f3-a758-5ad64ae5b100">
+
+Q7
+<img width="960" alt="q7 lqb 2 b" src="https://github.com/emaan-arshad/rep03/assets/142867477/fb433e46-cdee-44ab-adef-a159910f6edb">
+
 
 
 
