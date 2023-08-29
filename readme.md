@@ -15,4 +15,5 @@ Q4
 ![q4](https://github.com/emaan-arshad/rep03/assets/142867477/97591f20-233a-4136-9ede-97ce65727eac)
 
 Q5
-![Uploading Q5B.PNG…]()
+![Q5B](https://github.com/emaan-arshad/rep03/assets/142867477/a63e33e3-b333-4038-8440-fd0f340f378b)
+
