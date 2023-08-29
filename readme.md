@@ -2,11 +2,12 @@ EMAAN ARSHAD
 
 23I-2560
 
-Q1
-![q1](https://github.com/emaan-arshad/rep03/assets/142867477/92dc08c8-e6b1-4344-bbe9-f6c53bb29f1e)
+Q1![Q1 B](https://github.com/emaan-arshad/rep03/assets/142867477/77fb2b7f-8473-4720-af98-378e922509d1)
+
 
 Q2
-![q2](https://github.com/emaan-arshad/rep03/assets/142867477/8c9cfd85-3f11-4fbb-83d7-4216bef57ea7)
+![Q2 B](https://github.com/emaan-arshad/rep03/assets/142867477/413ce684-2bd0-449f-9d4c-8d55d6c4b99d)
+
 
 Q3
 ![q3](https://github.com/emaan-arshad/rep03/assets/142867477/66e1577d-ab18-44a4-b110-bd8e1003a869)
