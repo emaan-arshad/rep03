@@ -18,6 +18,7 @@ Q4
 
 
 Q5
-![Q5 C](https://github.com/emaan-arshad/rep03/assets/142867477/33f6cb25-87a2-4b41-adc9-a70fc382794a)
+![Q5 C](https://github.com/emaan-arshad/rep03/assets/142867477/f9eef89d-ad01-42a9-b3bf-7162cb0effe7)
+
 
 
