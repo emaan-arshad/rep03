@@ -34,6 +34,8 @@ Q6
 
 
 Q7
+
+
 <img width="960" alt="q7 lqb 2 b" src="https://github.com/emaan-arshad/rep03/assets/142867477/c6b5ce13-45e7-40ba-a9fd-62f1c6f1a16c">
 
 
